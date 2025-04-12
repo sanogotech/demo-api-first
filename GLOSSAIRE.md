@@ -1,6 +1,6 @@
 #  GLOSSAIRE API  FIRST
 
-# Titre : **Glossaire des Concepts Clés pour la Gestion et l'Optimisation des API : Importance et Cas d'Usage**
+# **Glossaire des Concepts Clés pour la Gestion et l'Optimisation des API : Importance et Cas d'Usage**
 
 ### Introduction
 
